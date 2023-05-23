@@ -1,20 +1,17 @@
-![](https://visitor-badge.glitch.me/badge?page_id=aub123.readme)
 ## A HDUER 
 ### 软件工程混子,分布式&hpc beginner  
 #### 求学习伙伴  
 
 
- <a href="tencent://AddContact/?fromId=45&fromSubId=1&subcmd=all&uin=2546319206&website=www.oicqzone.com">
+<a href="tencent://AddContact/?fromId=45&fromSubId=1&subcmd=all&uin=2546319206&website=www.oicqzone.com">
   QQ NUMBER: 2546319206(点击加我好友）
 <a>
 
-
+ 
 ### 技术栈：
 
-<img src="react.svg" width="64px"> &nbsp; &nbsp;
-  <img src="express.svg" width="64px"> &nbsp; &nbsp;
-<img src="nodedotjs.svg" width="64px"> &nbsp; &nbsp;
-####CUDA,OPENMP
+ 
+####CUDA,OPENMP,TENSORFLOW
 
 ![graph](profile-3d-contrib/profile-night-rainbow.svg)
 <!--
