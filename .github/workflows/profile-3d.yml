@@ -13,7 +13,7 @@ jobs:
       - uses: actions/checkout@v3
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
-          GITHUB_TOKEN: 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
+          GITHUB_TOKEN: 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
           USERNAME: aub123
       - name: Commit & Push
         run: |
