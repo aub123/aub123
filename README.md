@@ -1,17 +1,18 @@
-## A HDUER 
-### 软件工程混子,分布式&hpc beginner  
-#### 求学习伙伴  
+# A HDUER 
+## 软件工程混子,分布式&hpc beginner  
+求学习伙伴，欢迎来撩  
 
+<alexlessend@gmail.com>  
 
-<a href="tencent://AddContact/?fromId=45&fromSubId=1&subcmd=all&uin=2546319206&website=www.oicqzone.com">
-  QQ NUMBER: 2546319206(点击加我好友）
-<a>
+*[QQ NUMBER: 2546319206(点击加我好友)](tencent://AddContact/?fromId=45&fromSubId=1&subcmd=all&uin=2546319206&website=www.oicqzone.com)*
 
- 
-### 技术栈：
+*[My Blog](https://blog.zc6666.top/)*
 
  
-####CUDA,OPENMP,TENSORFLOW
+## Recently Focusing On:
+
+
+### CUDA, OPENMP,  C++, React   
 
 ![graph](profile-3d-contrib/profile-night-rainbow.svg)
 <!--
