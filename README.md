@@ -4,7 +4,10 @@
 
 <alexlessend@gmail.com>  
 
-*[QQ NUMBER: 2546319206(点击加我好友)](tencent://AddContact/?fromId=45&fromSubId=1&subcmd=all&uin=2546319206&website=www.oicqzone.com)*
+<a href="tencent://AddContact/?fromId=45&fromSubId=1&subcmd=all&uin=2546319206&website=www.oicqzone.com">
+  QQ NUMBER: 2546319206(点击加我好友)
+<a>
+
 
 *[My Blog](https://blog.zc6666.top/)*
 
