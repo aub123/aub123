@@ -27,7 +27,7 @@ VESTA is a training-free long-video agent that routes questions to focused, reca
 ## Selected Peer-Reviewed Publications
 
 - **COSTA: Collaborative Open-Set Test-Time Adaptation Through Robust Prototype Learning**<br>
-  **CVPR 2026 Findings Track (CVPRF)**. [Paper](https://doi.org/10.1109/CVPRF71909.2026.00591)
+  **Can Zhang**, Ruirui Li. **CVPR 2026 Findings Track (CVPRF)**. [Paper](https://openaccess.thecvf.com/content/CVPR2026F/html/Zhang_COSTA_Collaborative_Open-Set_Test-Time_Adaptation_Through_Robust_Prototype_Learning_CVPRF_2026_paper.html)
 - **AIM: Augmentation-Invariant Memory for Robust Open-set Test-Time Adaptation**<br>
   **Can Zhang**, Yunfeng Liu, Ye Wang, Ruirui Li. **IJCNN 2026**. [Paper](https://doi.org/10.1109/IJCNN69854.2026.11729088)
 - **Multi-Cache Enhanced Prototype Learning for Test-Time Generalization of Vision-Language Models**<br>
@@ -47,7 +47,7 @@ These are directions I hope to investigate during my PhD and through future coll
 
 ## Research and Engineering Experience
 
-My research internships at **Baidu** and the **China Telecom Artificial Intelligence Research Institute** have involved video agents, multimodal training, data pipelines, and distributed training systems.
+My research internships at **Baidu** and the **China Telecom Artificial Intelligence Research Institute** have involved video agents, multimodal training, data pipelines, and distributed training systems. At Baidu, I am currently working on streaming-video understanding agents. My next planned direction is agentic data synthesis for long-video tasks.
 
 **Tools I have worked with:** Python, PyTorch, verl, Megatron, MS-Swift, and distributed training workflows.
 
