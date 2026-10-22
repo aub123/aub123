@@ -26,6 +26,8 @@ VESTA is a training-free long-video agent that routes questions to focused, reca
 
 ## Selected Peer-Reviewed Publications
 
+- **COSTA: Collaborative Open-Set Test-Time Adaptation Through Robust Prototype Learning**<br>
+  **CVPR 2026 Findings Track (CVPRF)**. [Paper](https://doi.org/10.1109/CVPRF71909.2026.00591)
 - **AIM: Augmentation-Invariant Memory for Robust Open-set Test-Time Adaptation**<br>
   **Can Zhang**, Yunfeng Liu, Ye Wang, Ruirui Li. **IJCNN 2026**. [Paper](https://doi.org/10.1109/IJCNN69854.2026.11729088)
 - **Multi-Cache Enhanced Prototype Learning for Test-Time Generalization of Vision-Language Models**<br>
